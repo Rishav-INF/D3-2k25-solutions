@@ -13,6 +13,7 @@ Submissions of all problem statement solutions.
 | Hackasauras | [Drawisly](https://github.com/SobhanSah00/iiit_bbsrDrawisly) |
 | Kon'nichiwa sekai | [PromptBuddy](https://github.com/manaspros/code) |
 | Raccoon Fanclub | [Codemia](https://github.com/maaaazin/Codemia) |
+| CodeX | [SwapX](https://github.com/aryamansingh04/SwapX) |
 | Team Know Issues IIIT event | [Bhubaneswar-project--Frontend](https://github.com/WadoKira/Bhubaneswar-project--Frontend.git) |
 | Just-Git-Gud  | [LECTRA](https://github.com/Aqwerty321/Lectra) |
 |DIAMOND            | https://github.com/gayatrimishraa/Project_Kaushal |
